@@ -20,5 +20,3 @@
  Apaixonada por tecnologia, gosto sempre de aprender coisas novas!
 
  
-
- 
