@@ -5,7 +5,7 @@
 
 ![Sabrina Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=sabrinafsantos&show_icons=true&theme=cobalt)
 
-## Tecnologias que utilizo 
+## Estudante das Tecnologias
 
 <div style="display: inline{_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
