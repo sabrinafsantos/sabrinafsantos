@@ -33,10 +33,6 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/sabrinafsantos/sabrinafsantos/output/snake.svg" alt="Snake animation" />
-
-###
 
  
